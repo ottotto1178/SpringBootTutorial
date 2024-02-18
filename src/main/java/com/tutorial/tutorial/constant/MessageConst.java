@@ -7,6 +7,9 @@ package com.tutorial.tutorial.constant;
  * 
  */
 public class MessageConst {
+  /** 共通：入力エラー */
+  public static final String FORM_ERROR = "common.formError";
+
   /** ログイン画面：入力エラー */
   public static final String LOGIN_WRONG_INPUT = "login.wrongInput";
 
